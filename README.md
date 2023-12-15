@@ -1,7 +1,8 @@
-<img align="right" width="400" src="https://almablog-media.s3.ap-south-1.amazonaws.com/java_logo_icon_168609_min_2_66cb888826.png">
+<img align="center" width="1000" src="https://www.p92.hu/binaries/content/gallery/p92website/technologies/java-details.png">
 <h1 align="center">Hi there, I'm Borislava 👋</h1>
 <h3 align="center">I believe that being a passionate developer helps you to learn new technology, and keeps you moving forward.</h3>
 <img align="center" alt="Coding" width="800" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+
 
 - 🌱 I’m currently studying **for Java Web Developer.**
 - 📫 How to reach me **borislavadzholeva@gmail.com**
