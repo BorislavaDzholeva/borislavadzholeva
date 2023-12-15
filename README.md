@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="center" width="900" src="https://almablog-media.s3.ap-south-1.amazonaws.com/java_logo_icon_168609_min_2_66cb888826.png">
+<h1 align="center">Hi there, I'm Borislava 👋</h1>
+<h3 align="center">I believe that being a passionate developer helps you to learn new technology, and keeps you moving forward.</h3>
+<img align="center" alt="Coding" width="800" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
-<!--
-**BorislavaDzholeva/borislavadzholeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently studying **for Java Web Developer.**
+- 📫 How to reach me **borislavadzholeva@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:
+    <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,html,bootstrap,js,vscode,azure" /></h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borislavadzholeva&show_icons=true&locale=en&layout=compact" alt="borislavadzholeva" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borislavadzholeva&show_icons=true&locale=en" alt="borislavadzholeva" /></p>
+
+
+
